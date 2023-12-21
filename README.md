@@ -35,7 +35,7 @@ Maybe insert photo here.
 
 ## Hackathons Ive Participated in:
 
-### Real-Time Communications Hackathon. Sponsored by IEEE
+### Real-Time Communications Hackathon. Sponsored by [IEEE](https://www.ieee.org/)
 - The RTC Conference at IIT is a globally recognized collaborative event where the interactive multimedia and real-time communications industries and academia connect. The conference  brings together developers, technical professional and business executives from industry, standards, policy, regulatory, and research, promoting an open exchange of ideas to lead future development in the rapidly changing field of real-time communications.
 
  Here is a link to the description: [RTC HACK](https://events.vtools.ieee.org/m/348711)
