@@ -51,8 +51,8 @@ Maybe insert photo here.
 
  Your gonna have to use the way back machine for this one haha: 
 
- - This hackathon was hosted by the SHPE 2023 National Convention in Salt Lake City, UTAH. Thank you to the sponsors of the event: NSA, Raytheon, Abbott, & Rockwell Automation
- I was placed in a random team with 4 other people, our goal was to solve sets of cybersecurity challenges- all worth differing amount of points depending on its difficutly. This covered topics such as SQL injections, Stack overflow, Operational Security, Administrative security, Forensics & more. Our team place 8th out of 40 :(. This one had some tough competition.
+ - This hackathon was hosted by the SHPE 2023 National Convention in Salt Lake City, UTAH. Thank you to the sponsors of the event: [NSA](https://www.nsa.gov/), [Raytheon](https://www.rtx.com/), [Abbott](https://www.abbott.com/), & [Rockwell Automation](https://www.rockwellautomation.com/en-us.html)
+ I was placed in a random team with 4 other people, our goal was to solve sets of cybersecurity challenges- all worth differing amount of points depending on its difficutly. This covered topics such as SQL injections, Stack overflow, Operational Security, Administrative security, Forensics & more. Our team place **8th out of 40** cant win em' all you know. :(. This one had some tough competition.
 
  Photo here somewhere
 
