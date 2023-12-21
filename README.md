@@ -1,10 +1,10 @@
 # ::HELLO::
 
-### My name is Sal Jimenez and I am a computer engineering undergrad, DreamUS Scholar, SHPE & IEEE Memeber, and an ambitious learner. 
+## My name is Sal Jimenez and I am a computer engineering undergrad, DreamUS Scholar, SHPE & IEEE Memeber, and an ambitious learner. 
 
-### My background is centered around where Hardware and Software intertwine. Operating Systems, Machine Learning and Computer ### architecture are what really interest me.
+## My background is centered around where Hardware and Software intertwine. Operating Systems, Machine Learning, and Computer architecture are what really interest me.
 
-### Some of my past and current projects are:
+## Some of my past and current projects are:
 
 - 3D printed Augmented Reality Headset, where I was the hardware lead. I helped in spearheading the design, research, integration, testing and troubleshooting for this project. I led a team of software and electrical engineers to construct an AR headset capable of object detection for helping elderly in assisted driving. We placed 4th our of 40 teams for this engineering hackathon. (Thank you IIT & Grainger for this opportunity!)
   Here are some pictures
@@ -19,7 +19,7 @@ Ill provide a youtube video link of this project right here: (https://www.youtub
   Used the MNIST training & Testing data set for testing. **(I got it to reach about %91 accuracy on the guesses)
 **
 
-### My background:
+## My background:
 - I'm passionate about the industry trends going on in the world of engineering. 
 - My educational background is a Bachelors of Science in Computer Engineering at Illinois Institute of Technology in the Windy City
 - Former CEO/Consultant of Polarizer Video Studios:
@@ -34,16 +34,23 @@ Maybe insert photo here.
 
 ### Neural Networks
 
-CNN, RNN
+CNN, RNN are in repo
 
-### Stock Trading Chatbot
+### Stock Trading Neural Net Bot
 
+coming soon
 
-### 32 bit RISC Processor CPU 
+### 32 bit RISC Processor CPU
+
+In git repo
 
 ### Finite state machine project
 
+coming soon
+
 ### Trends: The engineering landscape and market outlook for the coming decade
+
+The future is faster than you think by Peter Diamandis
 
 
 ### Contact
