@@ -1,6 +1,6 @@
 # HELLO
 
-## My name is Sal Jimenez and I am a Computer Engineering undergrad, DreamUS Scholar, SHPE & IEEE Memeber, and an ambitious learner. 
+## My name is Sal Jimenez and I am a Computer Engineering undergrad, DreamUS Scholar, SHPE & IEEE Member, and an Ambitious Learner. 
 
 ## My background is centered around where Hardware and Software intertwine. Operating Systems, Machine Learning, and Computer architecture are what really interest me.
 
