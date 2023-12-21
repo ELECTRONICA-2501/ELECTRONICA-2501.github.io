@@ -36,29 +36,19 @@ Maybe insert photo here.
 ## Hackathons Ive Participated in:
 
 ### Real-Time Communications Hackathon. Sponsored by IEEE
-
-### SHPE 2023 CyberSecurity Challenge. Sponsored by [NSA](https://www.nsa.gov/), [Raytheon](https://www.rtx.com/), [Abbott](https://www.abbott.com/), & [Rockwell Automation](https://www.rockwellautomation.com/en-us.html)
-
-### 
 - The RTC Conference at IIT is a globally recognized collaborative event where the interactive multimedia and real-time communications industries and academia connect. The conference  brings together developers, technical professional and business executives from industry, standards, policy, regulatory, and research, promoting an open exchange of ideas to lead future development in the rapidly changing field of real-time communications.
 
  Here is a link to the description: [RTC HACK](https://events.vtools.ieee.org/m/348711)
- We placed **2nd out of 15 teams**. We helped build out a website that integrated two different companies API's
- The first was :
- and :
+ We placed **2nd out of 15 teams**. We helped build out a website that integrated two different companies API's: 
+ LiveKit API DOC can be found [here](https://docs.livekit.io/realtime/) and InDigital [here](https://indigital.net/)
  
- End project was a tutor like service where students can connect with tutors and peers in Real Time, and also use our built in AI chatbot to ask questions regarding subject matters
+ End project was a tutor like service where students can connect with tutors and peers in Real Time, and also use our built in AI chatbot to ask questions regarding subject matters. LinkedIn Post about the event [here](https://www.linkedin.com/feed/update/urn:li:activity:7114670066301890560/)
 
-
- 
-
- Your gonna have to use the way back machine for this one haha: 
-
+### SHPE 2023 CyberSecurity Challenge. Sponsored by [NSA](https://www.nsa.gov/), [Raytheon](https://www.rtx.com/), [Abbott](https://www.abbott.com/), & [Rockwell Automation](https://www.rockwellautomation.com/en-us.html)
  - This hackathon was hosted by the SHPE 2023 National Convention in Salt Lake City, UTAH.
 We were placed in a random team with 4 others, our goal was to solve sets of cybersecurity challenges -all worth differing amount of points depending on its difficutly. This covered topics such as SQL injections, Stack-Overflow, Systems Programming, Operational Security, Administrative Security, Digital Forensics & more. Our team place **8th out of 40** cant win em' all you know. :(. This one had some tough competition.
 
  Photo here somewhere
-
 
 
 ## Here are more detailed explainations and links to some of the projects
