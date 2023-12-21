@@ -96,3 +96,5 @@ The future is faster than you think by Peter Diamandis
 ### Contact & LinkedIn
 
 Feel free to reach out to me at <sal.hndrx@gmail.com>
+
+You can find my LinkedIn [Here](https://www.linkedin.com/in/sjimenez2501/)
