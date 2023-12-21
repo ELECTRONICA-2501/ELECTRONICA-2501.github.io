@@ -1,6 +1,6 @@
 # HELLO
 
-## My name is Sal Jimenez and I am a computer engineering undergrad, DreamUS Scholar, SHPE & IEEE Memeber, and an ambitious learner. 
+## My name is Sal Jimenez and I am a Computer Engineering undergrad, DreamUS Scholar, SHPE & IEEE Memeber, and an ambitious learner. 
 
 ## My background is centered around where Hardware and Software intertwine. Operating Systems, Machine Learning, and Computer architecture are what really interest me.
 
@@ -16,7 +16,8 @@ Here are some pictures
 
 Ill provide a youtube video link of this project right here: [GradPath AI](https://www.youtube.com/watch?v=6CZVAXxrdJU&t=3s)
 
-- Built out a Convolution Neural Network from complete scratch in JAVA. No neural network libraries where utilized, only Math and ArrayLists :).
+- **Convolution Neural Network**
+  Built out a Convolution Neural Network from complete scratch in JAVA. No neural network libraries where utilized, only Math and ArrayLists :).
   Used the MNIST training & Testing data set for testing. **(I got it to reach about %91 accuracy on the guesses)**
 
 ## My background:
@@ -33,7 +34,33 @@ Outside of science, Im very passionate in the sweet science (boxing), not only t
 
 Maybe insert photo here. 
 
-## Here are more detailed explainations and links to some of the aformentioned projects.
+## Hackathons Ive Participated in:
+
+### Real-Time Communications Hackathon. Sponsored by IEEE
+	The RTC Conference at IIT is a globally recognized collaborative event where the interactive multimedia and real-time communications industries and academia connect. The conference  brings together developers, technical professionals and business executives from industry, standards, policy, regulatory, and research, promoting an open exchange of ideas to lead future development in the rapidly changing field of real-time communications.
+ Here is a link to the description: [RTC HACK](https://events.vtools.ieee.org/m/348711)
+ We placed **2nd out of 15 teams**. We helped build out a website that integrated two different companies API's
+ The first was :
+ and :
+ End project was a tutor like service where students can connect with tutors and peers in Real Time, and also use our built in AI chatbot to ask questions regarding subject matters
+ [Photo Here somewhere
+
+ ### SHPE CyberSecurity Challenge 2023: Capture-the-Flag
+
+ Your gonna have to use the way back machine for this one haha: 
+
+ This hackathon was hosted by the SHPE 2023 National Convention in Salt Lake City, UTAH. Thank you to the sponsors of the event: NSA, Raytheon, Abbott, & Rockwell Automation
+ I was placed in a random team with 4 other people, our goal was to solve sets of cybersecurity challenges- all worth differing amount of points depending on its difficutly. This covered topics such as SQL injections, Stack overflow, Operational Security, Administrative security, Forensics & more. Our team place 8th out of 40 :(. This one had some tough competition.
+
+ [Photo here somewhere
+
+ ### 2022 Grainger X IIT Engineering Innovation Challenge
+
+ ### 
+
+ 
+
+## Here are more detailed explainations and links to some of the projects
 
 ### Neural Networks
 
@@ -51,11 +78,23 @@ In git repo
 
 coming soon
 
+### My first ever embedded system project: 3d printed Static Lie Detector
+
+oh gawd
+
+### Object Oriented Programming Projects
+
+This is a series of labs and projects completed in my intro to CS classes
+
+### Data Structures and Algorithms
+
+Its always good to review the fundamentals haha
+
 ### Trends: The engineering landscape and market outlook for the coming decade
 
 The future is faster than you think by Peter Diamandis
 
 
-### Contact
+### Contact & LinkedIn
 
 Feel free to reach out to me at <sal.hndrx@gmail.com>
