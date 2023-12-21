@@ -25,10 +25,13 @@ Ill provide a youtube video link of this project right here: [GradPath AI](https
   Used the MNIST training & Testing data set for testing. **(I got it to reach about %91 accuracy on the guesses)**
 
 ![Layers](GitHubPageImages/Convolution_Layers_Overview.png)
+Click here for the full git [repo](https://github.com/ELECTRONICA-2501/Convolution_Neural_Network_Project)
 
 ## My background:
 - **I'm passionate about the industry _trends_ going on in the world of engineering.**
 ![Here is a really good graph detailing the predicted computing power with the coming years](GitHubPageImages/Computational_Trends.png)
+I Think its really important to continously pursue mastery in any worthwhile skills. In this case, Engineers who can reap value from increasingly complex machines will stand to win in the coming reshuffling that is the future. I think business, technology, culture, and economic incentives are great things to study. This book right here is my favorite book that draws a beautifly road map of the **possible** transformations new technology can bring to the industries that matter the most to our everyday lives. 
+![FF](GitHubPageImages/TFFTYT.jpg)
   
 - My educational background is a Bachelors of Science in Computer Engineering at Illinois Institute of Technology in the Windy City. Im also a humble Morton College Alumni (MC STATE!!!) 
   
@@ -39,8 +42,6 @@ Ill provide a youtube video link of this project right here: [GradPath AI](https
 ![First IIT-IEEE Hackathon](GitHubPageImages/IEEEHACK.jpg)
 
 Outside of science, Im very passionate in the sweet science (boxing), not only that I also am heavily investing in leading both by example and guiding my younger brother, Aaron, LinkedIn: through his undergrad journey since he too is also looking to study computer science / electrical engineering. I am also and avid reader and am heavily investing in my SHPE chapter at my school. 
-
-Maybe insert photo here. 
 
 ## Hackathons Ive Participated in:
 
@@ -74,30 +75,25 @@ coming soon
 ### 32 bit RISC Processor CPU
 
 ![MIPS Processor](GitHubPageImages/ECE485SP6.png)
-
-In git repo
+This is a full VHDL build of a classic 32MIPS processor studied in our ECE classes. This build includes the ALU design, registers, pipelining stages and more.
+Click here for full git [repo](https://github.com/ELECTRONICA-2501/32Bit_RISC_MIPS_Processor_Project)
 
 ### Finite state machine project
 
 coming soon
 
 ### My first ever embedded system project: 3d printed Static Lie Detector
-
-oh gawd
+- This was a simple embedded systems project My partner, Varvara Bondarenko, and I, implemented for our ECE 100 class. This was a pretty simple project that used an Arduino in a 3D printed/laser-cut box. The arduino used a heartrate, and skin perspiration senor that where programmed to measure a persons vitals and checking to see if those vitals hit a particulat threshold that we had preset in our code. 
+![pic](GitHubPageImages/LieDetector.jpeg)
 
 ### Object Oriented Programming Projects
 
 This is a series of labs and projects completed in my intro to CS classes
+Click this link for the git [repo](https://github.com/ELECTRONICA-2501/Object_Oriented_Programming_Projects)
 
 ### Data Structures and Algorithms
 
 Its always good to review the fundamentals haha
-
-### Trends: The engineering landscape and market outlook for the coming decade
-
-This is one of my favorite books OF ALL TIME 
-
-
 
 ### Contact & LinkedIn
 
