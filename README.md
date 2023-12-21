@@ -36,11 +36,13 @@ Maybe insert photo here.
 ## Hackathons Ive Participated in:
 
 ### Real-Time Communications Hackathon. Sponsored by IEEE
-	The RTC Conference at IIT is a globally recognized collaborative event where the interactive multimedia and real-time communications industries and academia connect. The conference  brings together developers, technical professionals and business executives from industry, standards, policy, regulatory, and research, promoting an open exchange of ideas to lead future development in the rapidly changing field of real-time communications.
+- The RTC Conference at IIT is a globally recognized collaborative event where the interactive multimedia and real-time communications industries and academia connect. The conference  brings together developers, technical professional and business executives from industry, standards, policy, regulatory, and research, promoting an open exchange of ideas to lead future development in the rapidly changing field of real-time communications.
+
  Here is a link to the description: [RTC HACK](https://events.vtools.ieee.org/m/348711)
  We placed **2nd out of 15 teams**. We helped build out a website that integrated two different companies API's
  The first was :
  and :
+ 
  End project was a tutor like service where students can connect with tutors and peers in Real Time, and also use our built in AI chatbot to ask questions regarding subject matters
  [Photo Here somewhere
 
