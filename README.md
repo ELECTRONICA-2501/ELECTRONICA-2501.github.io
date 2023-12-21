@@ -95,7 +95,8 @@ Its always good to review the fundamentals haha
 
 ### Trends: The engineering landscape and market outlook for the coming decade
 
-The future is faster than you think by Peter Diamandis
+This is one of my favorite books OF ALL TIME 
+
 
 
 ### Contact & LinkedIn
@@ -103,3 +104,5 @@ The future is faster than you think by Peter Diamandis
 Feel free to reach out to me at <sal.hndrx@gmail.com>
 
 You can find my LinkedIn [Here](https://www.linkedin.com/in/sjimenez2501/)
+
+If you made it this far... check this out... [trust me :) ?](https://matias.ma/nsfw/) 
