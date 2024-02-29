@@ -31,11 +31,12 @@ Click here for the full git [repo](https://github.com/ELECTRONICA-2501/Convoluti
 - **Mapty(JavaScript app)**
   Here is a cool little project that you yourself can run on your local computer. Check out the readme file to see how to start running the project. Mapty is a workout application that allows a User to track their running or cycling workouts at their specific geolocation. Under the hood- this app makes use of 3rd party geolocation-based libraries that allow a developer to input specific scripts into the html file that will then allow you to play around with the functions within the library. In this app, I make use of the Leaflet JavaScript Libary (link here: https://leafletjs.com/download.html)
   Down below is a screenshot of me using this app, as well as the link to the [git repo](https://github.com/ELECTRONICA-2501/Geolocation_Workout_App/blob/main/README.md).
+  ![geoo](GeoLocApp.png)
 
 - **NBA MOCK Database Project**
   This collaborative endeavor represents a group project derived from the Spring 2024 iteration of CS 425 Database, under the guidance of esteemed Professor Gerald Balekaki at Illinois Tech. Within this undertaking, I am intricately involved in every facet of its execution. This encompasses crafting the comprehensive Entity-Relationship Diagram, as illustrated below, and meticulously constructing the schema utilizing the sophisticated tools of MySQL Workbench. Additionally, I am spearheading the development of the user-friendly front-end interface, ensuring seamless interaction with the underlying data infrastructure. NOTE: This is an ongoing project, shall upload more results and progress incremently. So far this is some of our deliverables. 
-[insert ERD picture]
-Link to workflow
+![insert ERD picture](IMG_0964.jpg)
+
 
 - **Tailored Meditation Device**
   One of the most ambitions projects Ive endevoured to complete. This is a collaborative team project from the Spring 2024 iteration of the ECE 441 Smart & Embedded Systems course, under the guidance of Dr. Jafar Saniie who is also the Head of the ECE department at Illinois Tech. This Embedded System device uses a camera, heart-rate, perspiration, and temperature sensors to track dynamically changing biological rhythms in a users body. This data will then be analyzed and return a tailored meditation practice to its user based off the data collected. 
