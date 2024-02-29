@@ -41,7 +41,7 @@ Click here for the full git [repo](https://github.com/ELECTRONICA-2501/Convoluti
 - **Tailored Meditation Device**
   One of the most ambitions projects Ive endevoured to complete. This is a collaborative team project from the Spring 2024 iteration of the ECE 441 Smart & Embedded Systems course, under the guidance of Dr. Jafar Saniie who is also the Head of the ECE department at Illinois Tech. This Embedded System device uses a camera, heart-rate, perspiration, and temperature sensors to track dynamically changing biological rhythms in a users body. This data will then be analyzed and return a tailored meditation practice to its user based off the data collected. 
 My role is the Software Lead. Tasked with building out the front & backend of this project.
-This is an _Ongoing project_. Shall upload all documentation pertained to this project once course conlcludes. 
+This is an _Ongoing project_. Shall upload all documentation pertained to this project once course conlcludes. For the embedded systems fanatics, here is the hardware schematic as a preview! ![tmdschematic](GitHubPageImages/schematicTMD.png)
 
 ## My background:
 - **I'm passionate about the industry _trends_ going on in the world of engineering.**
