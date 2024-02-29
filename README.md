@@ -31,11 +31,11 @@ Click here for the full git [repo](https://github.com/ELECTRONICA-2501/Convoluti
 - **Mapty(JavaScript app)**
   Here is a cool little project that you yourself can run on your local computer. Check out the readme file to see how to start running the project. Mapty is a workout application that allows a User to track their running or cycling workouts at their specific geolocation. Under the hood- this app makes use of 3rd party geolocation-based libraries that allow a developer to input specific scripts into the html file that will then allow you to play around with the functions within the library. In this app, I make use of the Leaflet JavaScript Libary (link here: https://leafletjs.com/download.html)
   Down below is a screenshot of me using this app, as well as the link to the [git repo](https://github.com/ELECTRONICA-2501/Geolocation_Workout_App/blob/main/README.md).
-  ![geoo](GeoLocApp.png)
+  ![geoo](GitHubPageImages/GeoLocApp.png)
 
 - **NBA MOCK Database Project**
   This collaborative endeavor represents a group project derived from the Spring 2024 iteration of CS 425 Database, under the guidance of esteemed Professor Gerald Balekaki at Illinois Tech. Within this undertaking, I am intricately involved in every facet of its execution. This encompasses crafting the comprehensive Entity-Relationship Diagram, as illustrated below, and meticulously constructing the schema utilizing the sophisticated tools of MySQL Workbench. Additionally, I am spearheading the development of the user-friendly front-end interface, ensuring seamless interaction with the underlying data infrastructure. NOTE: This is an ongoing project, shall upload more results and progress incremently. So far this is some of our deliverables. 
-![insert ERD picture](IMG_0964.jpg)
+![insert ERD picture](GitHubPageImages/IMG_0964.jpg)
 
 
 - **Tailored Meditation Device**
