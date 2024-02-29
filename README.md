@@ -2,7 +2,7 @@
 
 ## My name is Sal Jimenez and I am a Computer Engineering undergrad, DreamUS Scholar, SHPE & IEEE Member, and an Ambitious Learner.
  
-<img src="GitHubPageImages/2023Headshot.jpg" width="400" height="400">
+<img src="GitHubPageImages/2023Headshot.jpg" width="350" height="500">
 
 ## My expertise lies at the dynamic intersection of Hardware and Software realms, where I've navigated the intricate interplay between the two. As a Computer Engineer, I've delved deep into this vibrant ecosystem, harnessing its formidable potential to craft an impressive array of projects. From the sleek sophistication of frontend development to the seamless integration of backend systems, and from the intricate management of database systems. Not content with the confines of software alone, I've also ventured into the realm of hardware. Ive delved into the cutting-edge domain of transistor design (operating at the nanometer scale!), and I've embarked on ambitious endeavors such as the construction of a fully-functional MIPS computer architecture using VHDL, showcasing my ability to navigate both the digital and physical realms with equal dexterity and innovation.
 
