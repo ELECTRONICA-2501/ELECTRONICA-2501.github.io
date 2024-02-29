@@ -1,9 +1,9 @@
 # HELLO
 
 ## My name is Sal Jimenez and I am a Computer Engineering undergrad, DreamUS Scholar, SHPE & IEEE Member, and an Ambitious Learner.
-![me](GitHubPageImages/2023Headshot.jpg)
+###![me](GitHubPageImages/2023Headshot.jpg) <img src="GitHubPageImages/2023Headshot.jpg" width="100" height="100">
 
-## My background is centered around where Hardware and Software intertwine. Operating Systems, Machine Learning, and Computer architecture are what really interest me.
+## My expertise lies at the dynamic intersection of Hardware and Software realms, where I've navigated the intricate interplay between the two. As a Computer Engineer, I've delved deep into this vibrant ecosystem, harnessing its formidable potential to craft an impressive array of projects. From the sleek sophistication of frontend development to the seamless integration of backend systems, and from the intricate management of database systems. Not content with the confines of software alone, I've also ventured into the realm of hardware. Ive delved into the cutting-edge domain of transistor design (operating at the nanometer scale!), and I've embarked on ambitious endeavors such as the construction of a fully-functional MIPS computer architecture using VHDL, showcasing my ability to navigate both the digital and physical realms with equal dexterity and innovation.
 
 ## Some of my past and current projects are:
 
@@ -22,10 +22,24 @@ Ill provide a youtube video link of this project right here: [GradPath AI](https
 
 - **Convolution Neural Network**
   Built out a Convolution Neural Network from complete scratch in JAVA. No neural network libraries where utilized, only Math and ArrayLists :).
-  Used the MNIST training & Testing data set for testing. **(I got it to reach about %91 accuracy on the guesses)**
+  Used the MNIST training & Testing data set for testing. **(I got it to reach about 91% accuracy on the guesses)**
 
 ![Layers](GitHubPageImages/Convolution_Layers_Overview.png)
 Click here for the full git [repo](https://github.com/ELECTRONICA-2501/Convolution_Neural_Network_Project)
+
+- **Mapty(JavaScript app)**
+  Here is a cool little project that you yourself can run on your local computer. Check out the readme file to see how to start running the project. Mapty is a workout application that allows a User to track their running or cycling workouts at their specific geolocation. Under the hood- this app makes use of 3rd party geolocation-based libraries that allow a developer to input specific scripts into the html file that will then allow you to play around with the functions within the library. In this app, I make use of the Leaflet JavaScript Libary (link here: https://leafletjs.com/download.html)
+  Down below is a screenshot of me using this app, as well as the link to the [git repo](https://github.com/ELECTRONICA-2501/Geolocation_Workout_App/blob/main/README.md).
+
+- **NBA MOCK Database Project**
+  This collaborative endeavor represents a group project derived from the Spring 2024 iteration of CS 425 Database, under the guidance of esteemed Professor Gerald Balekaki at Illinois Tech. Within this undertaking, I am intricately involved in every facet of its execution. This encompasses crafting the comprehensive Entity-Relationship Diagram, as illustrated below, and meticulously constructing the schema utilizing the sophisticated tools of MySQL Workbench. Additionally, I am spearheading the development of the user-friendly front-end interface, ensuring seamless interaction with the underlying data infrastructure. NOTE: This is an ongoing project, shall upload more results and progress incremently. So far this is some of our deliverables. 
+[insert ERD picture]
+Link to workflow
+
+- **Tailored Meditation Device**
+  One of the most ambitions projects Ive endevoured to complete. This is a collaborative team project from the Spring 2024 iteration of the ECE 441 Smart & Embedded Systems course, under the guidance of Dr. Jafar Saniie who is also the Head of the ECE department at Illinois Tech. This Embedded System device uses a camera, heart-rate, perspiration, and temperature sensors to track dynamically changing biological rhythms in a users body. This data will then be analyzed and return a tailored meditation practice to its user based off the data collected. 
+My role is the Software Lead. Tasked with building out the front & backend of this project.
+This is an _Ongoing project_. Shall upload all documentation pertained to this project once course conlcludes. 
 
 ## My background:
 - **I'm passionate about the industry _trends_ going on in the world of engineering.**
@@ -59,18 +73,12 @@ Outside of science, Im very passionate in the sweet science (boxing), not only t
  - This hackathon was hosted by the SHPE 2023 National Convention in Salt Lake City, UTAH.
 We were placed in a random team with 4 others, our goal was to solve sets of cybersecurity challenges -all worth differing amount of points depending on its difficutly. This covered topics such as SQL injections, Stack-Overflow, Systems Programming, Operational Security, Administrative Security, Digital Forensics & more. Our team place **8th out of 40** cant win em' all you know. :(. This one had some tough competition.
 
- Photo here somewhere
+### 2024 Participant of UChicago's Uncommon Coders Hackathon.
+Comming up on March 22nd to the 24th. Shall post results and LinkedIn post here soon...
 
 
 ## Here are more detailed explainations and links to some of the projects
 
-### Neural Networks
-
-CNN, RNN are in repo
-
-### Stock Trading Neural Net Bot
-
-coming soon
 
 ### 32 bit RISC Processor CPU
 
@@ -78,9 +86,6 @@ coming soon
 This is a full VHDL build of a classic 32MIPS processor studied in our ECE classes. This build includes the ALU design, registers, pipelining stages and more.
 Click here for full git [repo](https://github.com/ELECTRONICA-2501/32Bit_RISC_MIPS_Processor_Project)
 
-### Finite state machine project
-
-coming soon
 
 ### My first ever embedded system project: 3d printed Static Lie Detector
 - This was a simple embedded systems project My partner, Varvara Bondarenko, and I, implemented for our ECE 100 class. This was a pretty simple project that used an Arduino in a 3D printed/laser-cut box. The arduino used a heartrate, and skin perspiration senor that where programmed to measure a persons vitals and checking to see if those vitals hit a particulat threshold that we had preset in our code. 
