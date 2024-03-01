@@ -46,7 +46,7 @@ This is an _Ongoing project_. Shall upload all documentation pertained to this p
 - **I'm passionate about the industry _trends_ going on in the world of engineering.**
 ![Here is a really good graph detailing the predicted computing power with the coming years](GitHubPageImages/Computational_Trends.png)
 I Think its really important to continously pursue mastery in any worthwhile skills. In this case, Engineers who can reap value from increasingly complex machines will stand to win in the coming reshuffling that is the future. I think business, technology, culture, and economic incentives are great things to study. This book right here is my favorite book that draws a beautifly road map of the **possible** transformations new technology can bring to the industries that matter the most to our everyday lives.
-<img src="GitHubPageImages/TFFTYT.jpg" width="250" height="400">
+<img src="GitHubPageImages/TFFTYT.jpg" width="450" height="600">
  
   
 - My educational background is a Bachelors of Science in Computer Engineering at Illinois Institute of Technology in the Windy City. Im also a humble Morton College Alumni (MC STATE!!!) 
@@ -91,8 +91,7 @@ Click here for full git [repo](https://github.com/ELECTRONICA-2501/32Bit_RISC_MI
 
 ### My first ever embedded system project: 3d printed Static Lie Detector
 - This was a simple embedded systems project My partner, Varvara Bondarenko, and I, implemented for our ECE 100 class. This was a pretty simple project that used an Arduino in a 3D printed/laser-cut box. The arduino used a heartrate, and skin perspiration senor that where programmed to measure a persons vitals and checking to see if those vitals hit a particulat threshold that we had preset in our code.
- <img src="GitHubPageImages/LieDetector.jpeg)
-" width="250" height="400">
+ <img src="GitHubPageImages/LieDetector.jpeg" width="350" height="500">
 
 
 ### Object Oriented Programming Projects
