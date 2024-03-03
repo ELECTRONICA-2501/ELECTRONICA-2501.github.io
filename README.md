@@ -11,7 +11,7 @@
 - **3D printed Augmented Reality Headset**
    I helped in spearheading the design, research, integration, testing and troubleshooting for this project. I led a team of software and electrical engineers to construct an AR headset capable of object detection for helping elderly in assisted driving. We placed 4th our of 40 teams for this engineering hackathon. (Thank you IIT & Grainger for this opportunity!)
 
-![Here are some pictures](GitHubPageImages/ARBuild.jpg)
+![Here are some pictures](GitHubPageImages/ARbuild2.png)
 ![Finished](GitHubPageImages/ARFinished.jpg)
 
 - **GradPath AI (Recommender System/Chatbot for classes)**
