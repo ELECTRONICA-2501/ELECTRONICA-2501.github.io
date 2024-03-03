@@ -20,6 +20,7 @@
 Ill provide a youtube video link of this project right here: [GradPath AI](https://www.youtube.com/watch?v=6CZVAXxrdJU&t=3s)
 
 ![High Level Overview](GitHubPageImages/GradPath_HighLevel_Overview.png)
+_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 
 - **Convolution Neural Network**
   Built out a Convolution Neural Network from complete scratch in JAVA. No neural network libraries where utilized, only Math and ArrayLists :).
@@ -90,19 +91,10 @@ This is a full VHDL build of a classic 32MIPS processor studied in our ECE class
 Click here for full git [repo](https://github.com/ELECTRONICA-2501/32Bit_RISC_MIPS_Processor_Project)
 
 
-### My first ever embedded system project: 3d printed Static Lie Detector
-- This was a simple embedded systems project My partner, Varvara Bondarenko, and I, implemented for our ECE 100 class. This was a pretty simple project that used an Arduino in a 3D printed/laser-cut box. The arduino used a heartrate, and skin perspiration senor that where programmed to measure a persons vitals and checking to see if those vitals hit a particulat threshold that we had preset in our code.
- <img src="GitHubPageImages/LieDetector.jpeg" width="350" height="500">
-
-
 ### Object Oriented Programming Projects
 
 This is a series of labs and projects completed in my intro to CS classes
 Click this link for the git [repo](https://github.com/ELECTRONICA-2501/Object_Oriented_Programming_Projects)
-
-### Data Structures and Algorithms
-
-Its always good to review the fundamentals haha
 
 ### Contact & LinkedIn
 
