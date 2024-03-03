@@ -26,6 +26,7 @@ Ill provide a youtube video link of this project right here: [GradPath AI](https
   Built out a Convolution Neural Network from complete scratch in JAVA. No neural network libraries where utilized, only Math and ArrayLists :).
   Used the MNIST training & Testing data set for testing. **(I got it to reach about 91% accuracy on the guesses)**
 ![Layers](GitHubPageImages/Convolution_Layers_Overview.png)
+
 Click here for the full git [repo](https://github.com/ELECTRONICA-2501/Convolution_Neural_Network_Project)
 
 
