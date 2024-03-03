@@ -27,21 +27,24 @@ _	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
   Used the MNIST training & Testing data set for testing. **(I got it to reach about 91% accuracy on the guesses)**
 ![Layers](GitHubPageImages/Convolution_Layers_Overview.png)
 Click here for the full git [repo](https://github.com/ELECTRONICA-2501/Convolution_Neural_Network_Project)
+_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 
 - **Mapty(JavaScript app)**
   Here is a cool little project that you yourself can run on your local computer. Check out the readme file to see how to start running the project. Mapty is a workout application that allows a User to track their running or cycling workouts at their specific geolocation. Under the hood- this app makes use of 3rd party geolocation-based libraries that allow a developer to input specific scripts into the html file that will then allow you to play around with the functions within the library. In this app, I make use of the Leaflet JavaScript Libary (link here: https://leafletjs.com/download.html)
   Down below is a screenshot of me using this app, as well as the link to the [git repo](https://github.com/ELECTRONICA-2501/Geolocation_Workout_App/blob/main/README.md).
   ![geoo](GitHubPageImages/GeoLocApp.png)
+  _	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 
 - **NBA MOCK Database Project**
   This collaborative endeavor represents a group project derived from the Spring 2024 iteration of CS 425 Database, under the guidance of esteemed Professor Gerald Balekaki at Illinois Tech. Within this undertaking, I am intricately involved in every facet of its execution. This encompasses crafting the comprehensive Entity-Relationship Diagram, as illustrated below, and meticulously constructing the schema utilizing the sophisticated tools of MySQL Workbench. Additionally, I am spearheading the development of the user-friendly front-end interface, ensuring seamless interaction with the underlying data infrastructure. NOTE: This is an ongoing project, shall upload more results and progress incremently. So far this is some of our deliverables. 
 ![insert ERD picture](GitHubPageImages/IMG_0964.jpg)
-
+_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 
 - **Tailored Meditation Device**
   One of the most ambitions projects Ive endevoured to complete. This is a collaborative team project from the Spring 2024 iteration of the ECE 441 Smart & Embedded Systems course, under the guidance of Dr. Jafar Saniie who is also the Head of the ECE department at Illinois Tech. This Embedded System device uses a camera, heart-rate, perspiration, and temperature sensors to track dynamically changing biological rhythms in a users body. This data will then be analyzed and return a tailored meditation practice to its user based off the data collected. 
 My role is the Software Lead. Tasked with building out the front & backend of this project.
 This is an _Ongoing project_. Shall upload all documentation pertained to this project once course conlcludes. For the embedded systems fanatics, here is the hardware schematic as a preview! ![tmdschematic](GitHubPageImages/schematicTMD.png)
+_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 
 ## My background:
 - **I'm passionate about the industry _trends_ going on in the world of engineering.**
@@ -71,15 +74,17 @@ Outside of science, Im very passionate in the sweet science (boxing), not only t
  LiveKit API DOC can be found [here](https://docs.livekit.io/realtime/) and InDigital [here](https://indigital.net/)
  
  End project was a tutor like service where students can connect with tutors and peers in Real Time, and also use our built in AI chatbot to ask questions regarding subject matters. LinkedIn Post about the event [here](https://www.linkedin.com/feed/update/urn:li:activity:7114670066301890560/)
+ _	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 
 ### SHPE 2023 CyberSecurity Challenge. Sponsored by [NSA](https://www.nsa.gov/), [Raytheon](https://www.rtx.com/), [Abbott](https://www.abbott.com/), & [Rockwell Automation](https://www.rockwellautomation.com/en-us.html)
  - This hackathon was hosted by the SHPE 2023 National Convention in Salt Lake City, UTAH.
 We were placed in a random team with 4 others, our goal was to solve sets of cybersecurity challenges -all worth differing amount of points depending on its difficutly. This covered topics such as SQL injections, Stack-Overflow, Systems Programming, Operational Security, Administrative Security, Digital Forensics & more. Our team place **8th out of 40** cant win em' all you know. :(. This one had some tough competition.
 ![utah](GitHubPageImages/UtaH.png)
+_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 
 ### 2024 Participant of UChicago's Uncommon Coders Hackathon.
 Comming up on March 22nd to the 24th. Shall post results and LinkedIn post here soon...
-
+_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 
 ## Here are more detailed explainations and links to some of the projects
 
