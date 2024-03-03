@@ -74,7 +74,7 @@ Outside of science, Im very passionate in the sweet science (boxing), not only t
 ### SHPE 2023 CyberSecurity Challenge. Sponsored by [NSA](https://www.nsa.gov/), [Raytheon](https://www.rtx.com/), [Abbott](https://www.abbott.com/), & [Rockwell Automation](https://www.rockwellautomation.com/en-us.html)
  - This hackathon was hosted by the SHPE 2023 National Convention in Salt Lake City, UTAH.
 We were placed in a random team with 4 others, our goal was to solve sets of cybersecurity challenges -all worth differing amount of points depending on its difficutly. This covered topics such as SQL injections, Stack-Overflow, Systems Programming, Operational Security, Administrative Security, Digital Forensics & more. Our team place **8th out of 40** cant win em' all you know. :(. This one had some tough competition.
-[utah](GitHubPageImages/UtaH.png)
+![utah](GitHubPageImages/UtaH.png)
 
 ### 2024 Participant of UChicago's Uncommon Coders Hackathon.
 Comming up on March 22nd to the 24th. Shall post results and LinkedIn post here soon...
