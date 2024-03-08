@@ -1,6 +1,6 @@
 # HELLO
 
-## My name is Sal Jimenez and I am a Computer Engineering undergrad, DreamUS Scholar, SHPE & IEEE Member, and an Ambitious Learner.
+## My name is Sal Jimenez and I am a Computer Engineering undergrad, SHPE & IEEE Member, and an Ambitious Learner.
  
 <img src="GitHubPageImages/2023Headshot.jpg" width="350" height="500">
 
