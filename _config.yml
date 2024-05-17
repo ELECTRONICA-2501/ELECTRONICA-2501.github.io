@@ -2,3 +2,19 @@ theme: jekyll-theme-cayman
 title: Welcome to Sals Github Page
 logo: /assets/img/2023Headshot.jpg
 description: Computer Engineer, Entrepreneur, Dreamer, SHPE & IEEE Member
+
+navigation:
+  - text: Home
+    url: /
+  - text: About
+    url: /about
+  - text: FPGA Internship Work
+    url: /fpga
+  - text: About Me
+    url: /about
+  - text: VLSI
+    url: /vlsi
+  - text: AI
+    url: /ai
+  - text: Embedded Systems
+    url: /embedded
