@@ -95,23 +95,25 @@ The Virtual Office Web application is a web app that allows users on a 2D board 
 During my research internship co-op, I worked on a project using an Effinity-based FPGA to control the brightness of an array of LEDs. The project involved implementing two different methods to modulate LED brightness: Pulse Width Modulation (PWM) and Pulse Frequency Modulation (PFM). I focused on using the PWM approach to control the LEDs' brightness levels.
 ![FPGA_Board](GitHubPageImages/EfinityFPGABoard.png)
 
-### FPGA vs CPU
-<a name="fpga-vs-cpu"></a>
+#### FPGA vs CPU
 
-### How an FPGA Works
+
+#### How an FPGA Works
 Field Programmable Gate Arrays (FPGAs) are integrated circuits that can be configured by the user after manufacturing. Unlike a CPU, which executes instructions sequentially based on a pre-defined architecture, an FPGA allows for highly parallel computation. FPGAs are reprogrammable, meaning that you can design custom hardware architectures tailored to specific tasks. The logic gates and interconnects inside the FPGA can be rewired to perform different tasks, enabling custom implementations of digital circuits.
 
-### FPGA vs CPU:
+#### FPGA vs CPU:
 - **Parallelism**: An FPGA is capable of true hardware-level parallelism. Multiple logic operations can occur simultaneously. On the other hand, a CPU typically performs tasks sequentially, even with multi-core architectures.
 - **Flexibility**: CPUs have a fixed architecture designed for general-purpose computing, while FPGAs can be tailored for specific tasks, making them highly efficient for specialized applications like signal processing, custom controllers, etc.
 - **Latency**: FPGAs offer lower latency because computations can be done in hardware, whereas CPUs often require instructions to be fetched and decoded before being executed.
 
-## Technologies Used
+#### Technologies Used
 <a name="technologies-used"></a>
 
 * [![Xilinx Vivado][Xilinx-Vivado-shield]][Xilinx-Vivado-url]
 * [![Effinity FPGA][Effinity-shield]][Effinity-url]
 * [![PWM][PWM-shield]][PWM-url]
+
+#### Full GitHub Repo [HERE](https://github.com/ELECTRONICA-2501/OA/tree/main](https://github.com/ELECTRONICA-2501/OpenAvenues_FPGA_Documentation/tree/main)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
