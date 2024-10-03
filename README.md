@@ -1,14 +1,16 @@
 # HELLO
 
-## My name is Sal Jimenez and I am a Computer Engineering undergrad, SHPE & IEEE Member, and an Ambitious Learner.
+## My name is Sal, and enthusiastic Computer Engineer and Ambitious learner.
+with this page, I aim to share some experiments, knowledge or ideas I have about programming and my career experience. 
  
 <img src="GitHubPageImages/2023Headshot.jpg" width="350" height="500">
 
-## My expertise lies at the dynamic intersection of Hardware and Software realms, where I've navigated the intricate interplay between the two. As a Computer Engineer, I've delved deep into this vibrant ecosystem, harnessing its formidable potential to craft an impressive array of projects. From the sleek sophistication of frontend development to the seamless integration of backend systems, and from the intricate management of database systems. Not content with the confines of software alone, I've also ventured into the realm of hardware. Ive delved into the cutting-edge domain of transistor design (operating at the nanometer scale!), and I've embarked on ambitious endeavors such as the construction of a fully-functional MIPS computer architecture using VHDL, showcasing my ability to navigate both the digital and physical realms with equal dexterity and innovation.
+### My expertise lies at the dynamic intersection of Hardware and Software realms, where I've navigated the intricate interplay between the two. As a Computer Engineer, I've delved deep into this vibrant ecosystem, harnessing its formidable potential to craft an impressive array of projects. From the sleek sophistication of frontend development to the seamless integration of backend systems, and from the intricate management of database systems. Not content with the confines of software alone, I've also ventured into the realm of hardware. Ive delved into the cutting-edge domain of transistor design (operating at the nanometer scale!), and I've embarked on ambitious endeavors such as the construction of a fully-functional MIPS computer architecture using VHDL, showcasing my ability to navigate both the digital and physical realms with equal dexterity and innovation. Aside from this, I am a passionate runner and philosophy reader - no worries, I will not bother you with that here!
+
 
 ## Past Intern & Professional Experience :
 
-# Zensor - Personalized Meditation Device
+### Zensor - Personalized Meditation Device
 
 **Team Members:** Salvador Jimenez, YoungJo Choi, Fayez Ghosein, Bhuvanesh Rajagopal  
 **Instructor:** Dr. Jafar Saniie  
@@ -18,7 +20,7 @@
 
 
 ---
-# This Project Was Built With:
+### This Project Was Built With:
 
 * [![Arduino][Arduino-shield]][Arduino-url]
 * [![Raspberry Pi][RaspberryPi-shield]][RaspberryPi-url]
@@ -28,22 +30,23 @@
 * [![Machine Learning][MachineLearning-shield]][MachineLearning-url]
 * [![Bluetooth][Bluetooth-shield]][Bluetooth-url]
 
-## Overview
+### Overview
 
 Zensor is a personalized meditation device designed to help users manage their emotional well-being. The device uses bio-data to predict the user's emotional state and provides customized meditation sessions to help users overcome negative emotions.
 
-## Live Demo Video Link:
+### Live Demo Video Link:
 [LOOM Video Demo](https://www.loom.com/share/299a1b1e04414c11861a4b76ba6212f2?sid=60bab68d-1b5e-46e7-a23c-9dedf14cfc5d)
 
+### Full GitHub Repo [Here](https://github.com/ELECTRONICA-2501/ZensorApp/blob/main/README.md)
 
-# The Build Fellowship - WebRTC Software Engineering Fellowship (unpaid internship)
+## The Build Fellowship - WebRTC Software Engineering Fellowship (unpaid internship)
 ![The Build Fellowship](GitHubPageImages/BuildFellowshipLogo.png)
 
-## Web App Project + Demo
+### Web App Project + Demo
 
 The Virtual Office Web application is a web app that allows users on a 2D board to video chat with each other. This app is supposed to simulate the feeling of being at a virtual office for remote workers. This app was built using React and Node.js on the client side, while also using simple-peer API to facilitate the WebRTC connection between users. Socket.IO powers the server side, providing real-time bidirectional communication to support user movements on the gameboard.
 
-## This app Was Built With: 
+### This app Was Built With: 
 
 * [![React][React.js]][React-url]
 * [![Firebase][Firebase-shield]][Firebase-url]
@@ -53,18 +56,18 @@ The Virtual Office Web application is a web app that allows users on a 2D board 
 * [![Socket_IO][Socket_IO-shield]][Socket_IO-url]
 * [![Peer_JS][Peer_JS-shield]][Peer_JS-url]
 
-## Loom Demo + Presentation Link 
+### Loom Demo + Presentation Link 
 #### Check out the following link for a presentation and demo at the end :)
  https://www.loom.com/share/c64fff055ec94d0bae7b4863a2b112a8?sid=53faedfe-4f3a-4a44-a937-2297b2a1109b
 
-## Architecture
-### Client side 
+### Architecture
+#### Client side 
 ![Client Code Architecture](GitHubPageImages/WebRTC%20Client.png)
 
-### Server side
+#### Server side
 ![Server Code Architecture](GitHubPageImages/Server%20Side%20WebRTC.png)
 
-
+### Full GitHub Repo [HERE](https://github.com/ELECTRONICA-2501/OA/tree/main)
 
 
 ## Some of my past and current projects are:
