@@ -125,7 +125,7 @@ Field Programmable Gate Arrays (FPGAs) are integrated circuits that can be confi
 * [![Effinity FPGA][Effinity-shield]][Effinity-url]
 * [![PWM][PWM-shield]][PWM-url]
 
-#### Full GitHub Repo [HERE](https://github.com/ELECTRONICA-2501/OA/tree/main](https://github.com/ELECTRONICA-2501/OpenAvenues_FPGA_Documentation/tree/main)
+#### Full GitHub Repo [Here](https://github.com/ELECTRONICA-2501/OpenAvenues_FPGA_Documentation/tree/main)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
