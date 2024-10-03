@@ -109,8 +109,8 @@ During my research internship co-op, I worked on a project using an Effinity-bas
 
 ##### How an FPGA Works
 Field Programmable Gate Arrays (FPGAs) are integrated circuits that can be configured by the user after manufacturing. Unlike a CPU, which executes instructions sequentially based on a pre-defined architecture, an FPGA allows for highly parallel computation. FPGAs are reprogrammable, meaning that you can design custom hardware architectures tailored to specific tasks. The logic gates and interconnects inside the FPGA can be rewired to perform different tasks, enabling custom implementations of digital circuits.
-![LUTS](GitHubPageImages/6InputLUTs)
-![CLBMatrix](GitHubPageImages/CLBMatrix)
+![LUTS](GitHubPageImages/6InputLUTs.png)
+![CLBMatrix](GitHubPageImages/CLBMatrix.png)
 
 #### FPGA vs CPU:
 - **Parallelism**: An FPGA is capable of true hardware-level parallelism. Multiple logic operations can occur simultaneously. On the other hand, a CPU typically performs tasks sequentially, even with multi-core architectures.
