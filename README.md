@@ -34,7 +34,7 @@ Outside of school and work, I am very passionate about sports such as boxing, an
 ## Past Intern & Professional Experience
 <a name="past-intern--professional-experience"></a>
 
-### Zensor - Personalized Meditation Device
+### Zensor - Personalized Meditation Device ECASP Project @ Illinois Tech
 **Team Members:** Salvador Jimenez, YoungJo Choi, Fayez Ghosein, Bhuvanesh Rajagopal  
 **Instructor:** Dr. Jafar Saniie  
 **Teaching Assistants:** Xinrui Yu, Mikhail Gromov  
@@ -49,25 +49,25 @@ Outside of school and work, I am very passionate about sports such as boxing, an
 * [![Android Studio][AndroidStudio-shield]][AndroidStudio-url]
 * [![Machine Learning][MachineLearning-shield]][MachineLearning-url]
 
-### Overview
+#### Overview
 
 Zensor is a personalized meditation device designed to help users manage their emotional well-being. The device uses bio-data to predict the user's emotional state and provides customized meditation sessions to help users overcome negative emotions.
 
-### Live Demo Video Link:
+#### Live Demo Video Link:
 [LOOM Video Demo](https://www.loom.com/share/299a1b1e04414c11861a4b76ba6212f2?sid=60bab68d-1b5e-46e7-a23c-9dedf14cfc5d)
 
-### Full GitHub Repo [Here](https://github.com/ELECTRONICA-2501/ZensorApp/blob/main/README.md)
+#### Full GitHub Repo [Here](https://github.com/ELECTRONICA-2501/ZensorApp/blob/main/README.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### The Build Fellowship - WebRTC Software Engineering Fellowship (unpaid internship)
+### The Build Fellowship - WebRTC Software Engineering Fellowship (unpaid internship Summer 2024)
 ![The Build Fellowship](GitHubPageImages/BuildFellowshipLogo.png)
 
-### Web App Project + Demo
+#### Web App Project + Demo
 
 The Virtual Office Web application is a web app that allows users on a 2D board to video chat with each other. This app is supposed to simulate the feeling of being at a virtual office for remote workers. This app was built using React and Node.js on the client side, while also using simple-peer API to facilitate the WebRTC connection between users. Socket.IO powers the server side, providing real-time bidirectional communication to support user movements on the gameboard.
 
-### This app Was Built With: 
+#### This app Was Built With: 
 
 * [![React][React.js]][React-url]
 * [![Firebase][Firebase-shield]][Firebase-url]
@@ -77,18 +77,42 @@ The Virtual Office Web application is a web app that allows users on a 2D board 
 * [![Socket_IO][Socket_IO-shield]][Socket_IO-url]
 * [![Peer_JS][Peer_JS-shield]][Peer_JS-url]
 
-### Loom Demo + Presentation Link 
-#### Check out the following link for a presentation and demo at the end :)
+#### Loom Demo + Presentation Link 
+##### Check out the following link for a presentation and demo at the end :)
  https://www.loom.com/share/c64fff055ec94d0bae7b4863a2b112a8?sid=53faedfe-4f3a-4a44-a937-2297b2a1109b
 
-### Architecture
-#### Client side 
+#### Architecture
+##### Client side 
 ![Client Code Architecture](GitHubPageImages/WebRTC%20Client.png)
 
-#### Server side
+##### Server side
 ![Server Code Architecture](GitHubPageImages/Server%20Side%20WebRTC.png)
 
-### Full GitHub Repo [HERE](https://github.com/ELECTRONICA-2501/OA/tree/main)
+#### Full GitHub Repo [HERE](https://github.com/ELECTRONICA-2501/OA/tree/main)
+
+### Open Avenues FPGA Research Internship with Open Avenues (Co-Op Spring 2024)
+
+During my research internship co-op, I worked on a project using an Effinity-based FPGA to control the brightness of an array of LEDs. The project involved implementing two different methods to modulate LED brightness: Pulse Width Modulation (PWM) and Pulse Frequency Modulation (PFM). I focused on using the PWM approach to control the LEDs' brightness levels.
+![FPGA_Board](GitHubPageImages/EfinityFPGABoard.png)
+
+### FPGA vs CPU
+<a name="fpga-vs-cpu"></a>
+
+### How an FPGA Works
+Field Programmable Gate Arrays (FPGAs) are integrated circuits that can be configured by the user after manufacturing. Unlike a CPU, which executes instructions sequentially based on a pre-defined architecture, an FPGA allows for highly parallel computation. FPGAs are reprogrammable, meaning that you can design custom hardware architectures tailored to specific tasks. The logic gates and interconnects inside the FPGA can be rewired to perform different tasks, enabling custom implementations of digital circuits.
+
+### FPGA vs CPU:
+- **Parallelism**: An FPGA is capable of true hardware-level parallelism. Multiple logic operations can occur simultaneously. On the other hand, a CPU typically performs tasks sequentially, even with multi-core architectures.
+- **Flexibility**: CPUs have a fixed architecture designed for general-purpose computing, while FPGAs can be tailored for specific tasks, making them highly efficient for specialized applications like signal processing, custom controllers, etc.
+- **Latency**: FPGAs offer lower latency because computations can be done in hardware, whereas CPUs often require instructions to be fetched and decoded before being executed.
+
+## Technologies Used
+<a name="technologies-used"></a>
+
+* [![Xilinx Vivado][Xilinx-Vivado-shield]][Xilinx-Vivado-url]
+* [![Effinity FPGA][Effinity-shield]][Effinity-url]
+* [![PWM][PWM-shield]][PWM-url]
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -96,6 +120,8 @@ The Virtual Office Web application is a web app that allows users on a 2D board 
 <!-- PROJECTS -->
 ## Projects
 <a name="projects"></a>
+
+### VLSI
 
 ### 3D printed Augmented Reality Headset
 I helped spearhead the design, research, integration, testing, and troubleshooting for this project. We placed 4th out of 40 teams at the engineering hackathon...
@@ -113,15 +139,22 @@ Developed an AI-driven recommendation system to provide personalized course reco
 ## Hackathons I've Participated In
 <a name="hackathons-ive-participated-in"></a>
 
-### Real-Time Communications Hackathon (Sponsored by IEEE)
-We built a tutor service with real-time video chat and an AI chatbot for subject-specific queries...
+### Real-Time Communications Hackathon. Sponsored by [IEEE](https://www.ieee.org/)
+- The RTC Conference at IIT is a globally recognized collaborative event where the interactive multimedia and real-time communications industries and academia connect. The conference  brings together developers, technical professional and business executives from industry, standards, policy, regulatory, and research, promoting an open exchange of ideas to lead future development in the rapidly changing field of real-time communications.
+![Hackerinurarea](GitHubPageImages/RTCHACK.png)
 
-![Hacker in action](GitHubPageImages/RTCHACK.png)
+ Here is a link to the description: [RTC HACK](https://events.vtools.ieee.org/m/348711)
+ We placed **2nd out of 15 teams**. We helped build out a website that integrated two different companies API's: 
+ LiveKit API DOC can be found [here](https://docs.livekit.io/realtime/) and InDigital [here](https://indigital.net/)
+ 
+ End project was a tutor like service where students can connect with tutors and peers in Real Time, and also use our built in AI chatbot to ask questions regarding subject matters. LinkedIn Post about the event [here](https://www.linkedin.com/feed/update/urn:li:activity:7114670066301890560/)
 
-### SHPE 2023 CyberSecurity Challenge (Sponsored by NSA)
-Our team placed 8th out of 40 in a highly competitive event that covered topics such as SQL injections, digital forensics, and systems programming...
 
-![Utah](GitHubPageImages/UtaH.png)
+ 
+### SHPE 2023 CyberSecurity Challenge. Sponsored by [NSA](https://www.nsa.gov/), [Raytheon](https://www.rtx.com/), [Abbott](https://www.abbott.com/), & [Rockwell Automation](https://www.rockwellautomation.com/en-us.html)
+ - This hackathon was hosted by the SHPE 2023 National Convention in Salt Lake City, UTAH.
+We were placed in a random team with 4 others, our goal was to solve sets of cybersecurity challenges -all worth differing amount of points depending on its difficutly. This covered topics such as SQL injections, Stack-Overflow, Systems Programming, Operational Security, Administrative Security, Digital Forensics & more. Our team place **8th out of 40** cant win em' all you know. :(. This one had some tough competition.
+![utah](GitHubPageImages/UtaH.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,3 +204,17 @@ If you made it this far... check this out... [trust me :) ?](https://matias.ma/n
 [Bluetooth-shield]: https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white
 [Bluetooth-url]: https://www.bluetooth.com/badge&logo=ml&logoColor=white
 [MachineLearning-url]: https://scikit-learn.org/
+
+[Xilinx-Vivado-shield]: https://img.shields.io/badge/Xilinx_Vivado-F75C03?style=for-the-badge&logo=xilinx&logoColor=white
+[Xilinx-Vivado-url]: https://www.xilinx.com/products/design-tools/vivado.html
+
+
+[VHDL-shield]: https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge
+[VHDL-url]: https://en.wikipedia.org/wiki/VHDL
+
+[Effinity-shield]: https://img.shields.io/badge/effinity-FPGA-green?style=for-the-badge
+[Effinity-url]: https://www.effinity.com/
+
+[PWM-shield]: https://img.shields.io/badge/PWM-FFA500?style=for-the-badge
+[PWM-url]: https://en.wikipedia.org/wiki/Pulse-width_modulation
+
