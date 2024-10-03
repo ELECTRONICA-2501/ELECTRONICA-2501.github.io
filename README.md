@@ -93,8 +93,7 @@ The Virtual Office Web application is a web app that allows users on a 2D board 
 * [![Peer_JS][Peer_JS-shield]][Peer_JS-url]
 
 #### Loom Demo + Presentation Link 
-##### Check out the following link for a presentation and demo at the end :)
- https://www.loom.com/share/c64fff055ec94d0bae7b4863a2b112a8?sid=53faedfe-4f3a-4a44-a937-2297b2a1109b
+[Check out the following link for a presentation and demo at the end :)](https://www.loom.com/share/c64fff055ec94d0bae7b4863a2b112a8?sid=53faedfe-4f3a-4a44-a937-2297b2a1109b)
 
 #### Architecture
 ##### Client side 
@@ -143,15 +142,24 @@ Field Programmable Gate Arrays (FPGAs) are integrated circuits that can be confi
 
 ### VLSI
 
+---
+
 ### 3D printed Augmented Reality Headset
-I helped spearhead the design, research, integration, testing, and troubleshooting for this project. We placed 4th out of 40 teams at the engineering hackathon...
+ I helped in spearheading the design, research, integration, testing and troubleshooting for this project. I led a team of software and electrical engineers to construct an AR headset capable of object detection for helping elderly in assisted driving. We placed 4th our of 40 teams for this engineering hackathon. (Thank you IIT & Grainger for this opportunity!)
 
 ![Finished AR Project](GitHubPageImages/ARFinished.jpg)
 
+
+---
+
 ### GradPath AI (Recommender System/Chatbot for classes)
-Developed an AI-driven recommendation system to provide personalized course recommendations, improving student graduation rates...
+Developed an AI-driven recommendation system, leveraging course grade data and historical student records, to tackle uninformed course choices and improve graduation rates. Personalized course recommendations were generated, enhancing efficiency, and aligning with each student's goals.
+	Incorporating two data frames, GRADPATH AI applies classification Machine Learning techniques to forecast student letter grades, a categorical variable, through predictive modeling. Approach involves presenting input data to a machine learning model to determine corresponding categories, defining a key aspect of classification machine learning.
+Ill provide a youtube video link of this project right here: [GradPath AI](https://www.youtube.com/watch?v=6CZVAXxrdJU&t=3s)
 
 ![GradPath Overview](GitHubPageImages/GradPath_HighLevel_Overview.png)
+
+---
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
