@@ -34,7 +34,7 @@ Outside of school and work, I am very passionate about sports such as boxing, an
 ## Past Intern & Professional Experience
 <a name="past-intern--professional-experience"></a>
 
-### Zensor - Personalized Meditation Device ECASP Project @ Illinois Tech
+### **Zensor - Personalized Meditation Device ECASP Project @ Illinois Tech**
 **Team Members:** Salvador Jimenez, YoungJo Choi, Fayez Ghosein, Bhuvanesh Rajagopal  
 **Instructor:** Dr. Jafar Saniie  
 **Teaching Assistants:** Xinrui Yu, Mikhail Gromov  
@@ -52,6 +52,7 @@ Outside of school and work, I am very passionate about sports such as boxing, an
 #### Overview
 
 Zensor is a personalized meditation device designed to help users manage their emotional well-being. The device uses bio-data to predict the user's emotional state and provides customized meditation sessions to help users overcome negative emotions. My specific task was creating the Android Application, as well as intergating Firebase, the Raspberry pi 5 and the sensors array together for seamless communication between each part. 
+![Hand](GitHubPageImages/Hand1.png)
 
 ####  Big Picture Technical Overview
 ![General System Overview](GitHubPageImages/GeneralSystemOverview.png)
@@ -71,7 +72,7 @@ Zensor is a personalized meditation device designed to help users manage their e
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### The Build Fellowship - WebRTC Software Engineering Fellowship (unpaid internship Summer 2024)
+### **The Build Fellowship - WebRTC Software Engineering Fellowship (unpaid internship Summer 2024)**
 ![The Build Fellowship](GitHubPageImages/BuildFellowshipLogo.png)
 
 #### Web App Project + Demo
@@ -101,7 +102,7 @@ The Virtual Office Web application is a web app that allows users on a 2D board 
 
 #### Full GitHub Repo [HERE](https://github.com/ELECTRONICA-2501/OA/tree/main)
 
-### Open Avenues FPGA Research Internship with Open Avenues (Co-Op Spring 2024)
+### **Open Avenues FPGA Research Internship with Open Avenues (Co-Op Spring 2024)**
 
 During my research internship co-op, I worked on a project using an Effinity-based FPGA to control the brightness of an array of LEDs. The project involved implementing two different methods to modulate LED brightness: Pulse Width Modulation (PWM) and Pulse Frequency Modulation (PFM). I focused on using the PWM approach to control the LEDs' brightness levels.
 ![FPGA_Board](GitHubPageImages/EfinityFPGABoard.png)
