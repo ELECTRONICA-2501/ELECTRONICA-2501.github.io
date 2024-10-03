@@ -53,6 +53,19 @@ Outside of school and work, I am very passionate about sports such as boxing, an
 
 Zensor is a personalized meditation device designed to help users manage their emotional well-being. The device uses bio-data to predict the user's emotional state and provides customized meditation sessions to help users overcome negative emotions.
 
+####  Big Picture Technical Overview
+![General System Overview](GitHubPageImages/GeneralSystemOverview.png)
+
+#### Software Architecture
+- **Meditation Algorithm:** Machine learning model (Decision Tree) trained on biometric data to predict emotional states. The following **Diagrams represent 1st and 2nd Stages.**
+  ##### Stage 1: User is prompted multiple times throughout the day to aggregate a large amount of data for our ML model.
+    ![User Process Flow Transparent](GitHubPageImages/UserProcFlowTransparent.png)
+
+  ##### Stage 2: After we've collected a sufficient amount of data, the user can now just put on the device and the sensors will predict an emotion and return a tailored meditation practice to help them handle that emotion.
+    ![Baseline Transparent](GitHubPageImages/Copy%20of%20BaselineTransparent.png)
+
+- **Android Application:** User interface for starting meditation sessions, viewing data, and managing user accounts.
+  ![App UI](GitHubPageImages/AppUI.png)
 #### Live Demo Video Link:
 [LOOM Video Demo](https://www.loom.com/share/299a1b1e04414c11861a4b76ba6212f2?sid=60bab68d-1b5e-46e7-a23c-9dedf14cfc5d)
 
@@ -95,16 +108,17 @@ The Virtual Office Web application is a web app that allows users on a 2D board 
 During my research internship co-op, I worked on a project using an Effinity-based FPGA to control the brightness of an array of LEDs. The project involved implementing two different methods to modulate LED brightness: Pulse Width Modulation (PWM) and Pulse Frequency Modulation (PFM). I focused on using the PWM approach to control the LEDs' brightness levels.
 ![FPGA_Board](GitHubPageImages/EfinityFPGABoard.png)
 
-#### FPGA vs CPU
 
-
-#### How an FPGA Works
+##### How an FPGA Works
 Field Programmable Gate Arrays (FPGAs) are integrated circuits that can be configured by the user after manufacturing. Unlike a CPU, which executes instructions sequentially based on a pre-defined architecture, an FPGA allows for highly parallel computation. FPGAs are reprogrammable, meaning that you can design custom hardware architectures tailored to specific tasks. The logic gates and interconnects inside the FPGA can be rewired to perform different tasks, enabling custom implementations of digital circuits.
+![LUTS](GitHubPageImages/6InputLUTs)
+![CLBMatrix](GitHubPageImages/CLBMatrix)
 
 #### FPGA vs CPU:
 - **Parallelism**: An FPGA is capable of true hardware-level parallelism. Multiple logic operations can occur simultaneously. On the other hand, a CPU typically performs tasks sequentially, even with multi-core architectures.
 - **Flexibility**: CPUs have a fixed architecture designed for general-purpose computing, while FPGAs can be tailored for specific tasks, making them highly efficient for specialized applications like signal processing, custom controllers, etc.
 - **Latency**: FPGAs offer lower latency because computations can be done in hardware, whereas CPUs often require instructions to be fetched and decoded before being executed.
+  ![MIPS Processor](GitHubPageImages/ECE485SP6.png)
 
 #### Technologies Used
 <a name="technologies-used"></a>
