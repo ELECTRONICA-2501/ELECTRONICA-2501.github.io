@@ -31,6 +31,7 @@ Outside of school and work, I am very passionate about sports such as boxing, an
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- PAST INTERN & PROFESSIONAL EXPERIENCE -->
+---
 ## Past Intern & Professional Experience
 <a name="past-intern--professional-experience"></a>
 
@@ -72,6 +73,8 @@ Zensor is a personalized meditation device designed to help users manage their e
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---
+
 ### **The Build Fellowship - WebRTC Software Engineering Fellowship (unpaid internship Summer 2024)**
 ![The Build Fellowship](GitHubPageImages/BuildFellowshipLogo.png)
 
@@ -102,6 +105,8 @@ The Virtual Office Web application is a web app that allows users on a 2D board 
 
 #### Full GitHub Repo [HERE](https://github.com/ELECTRONICA-2501/OA/tree/main)
 
+---
+
 ### **Open Avenues FPGA Research Internship with Open Avenues (Co-Op Spring 2024)**
 
 During my research internship co-op, I worked on a project using an Effinity-based FPGA to control the brightness of an array of LEDs. The project involved implementing two different methods to modulate LED brightness: Pulse Width Modulation (PWM) and Pulse Frequency Modulation (PFM). I focused on using the PWM approach to control the LEDs' brightness levels.
@@ -111,7 +116,7 @@ During my research internship co-op, I worked on a project using an Effinity-bas
 ##### How an FPGA Works
 Field Programmable Gate Arrays (FPGAs) are integrated circuits that can be configured by the user after manufacturing. Unlike a CPU, which executes instructions sequentially based on a pre-defined architecture, an FPGA allows for highly parallel computation. FPGAs are reprogrammable, meaning that you can design custom hardware architectures tailored to specific tasks. The logic gates and interconnects inside the FPGA can be rewired to perform different tasks, enabling custom implementations of digital circuits.
 ![LUTS](GitHubPageImages/6InputLUTs.png)
-![CLBMatrix](GitHubPageImages/CLBMatrix.png)
+
 
 #### FPGA vs CPU:
 - **Parallelism**: An FPGA is capable of true hardware-level parallelism. Multiple logic operations can occur simultaneously. On the other hand, a CPU typically performs tasks sequentially, even with multi-core architectures.
@@ -130,7 +135,7 @@ Field Programmable Gate Arrays (FPGAs) are integrated circuits that can be confi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+---
 
 <!-- PROJECTS -->
 ## Projects
