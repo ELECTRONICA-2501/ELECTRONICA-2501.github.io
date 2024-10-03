@@ -51,7 +51,7 @@ Outside of school and work, I am very passionate about sports such as boxing, an
 
 #### Overview
 
-Zensor is a personalized meditation device designed to help users manage their emotional well-being. The device uses bio-data to predict the user's emotional state and provides customized meditation sessions to help users overcome negative emotions.
+Zensor is a personalized meditation device designed to help users manage their emotional well-being. The device uses bio-data to predict the user's emotional state and provides customized meditation sessions to help users overcome negative emotions. My specific task was creating the Android Application, as well as intergating Firebase, the Raspberry pi 5 and the sensors array together for seamless communication between each part. 
 
 ####  Big Picture Technical Overview
 ![General System Overview](GitHubPageImages/GeneralSystemOverview.png)
@@ -63,9 +63,7 @@ Zensor is a personalized meditation device designed to help users manage their e
 
   ##### Stage 2: After we've collected a sufficient amount of data, the user can now just put on the device and the sensors will predict an emotion and return a tailored meditation practice to help them handle that emotion.
     ![Baseline Transparent](GitHubPageImages/Copy%20of%20BaselineTransparent.png)
-
-- **Android Application:** User interface for starting meditation sessions, viewing data, and managing user accounts.
-  ![App UI](GitHubPageImages/AppUI.png)
+  
 #### Live Demo Video Link:
 [LOOM Video Demo](https://www.loom.com/share/299a1b1e04414c11861a4b76ba6212f2?sid=60bab68d-1b5e-46e7-a23c-9dedf14cfc5d)
 
