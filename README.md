@@ -112,7 +112,7 @@ During my research internship co-op, I worked on a project using an Effinity-bas
 ![FPGA_Board](GitHubPageImages/EfinityFPGABoard.png)
 
 
-##### How an FPGA Works
+#### How an FPGA Works
 Field Programmable Gate Arrays (FPGAs) are integrated circuits that can be configured by the user after manufacturing. Unlike a CPU, which executes instructions sequentially based on a pre-defined architecture, an FPGA allows for highly parallel computation. FPGAs are reprogrammable, meaning that you can design custom hardware architectures tailored to specific tasks. The logic gates and interconnects inside the FPGA can be rewired to perform different tasks, enabling custom implementations of digital circuits.
 ![LUTS](GitHubPageImages/6InputLUTs.png)
 
@@ -178,11 +178,15 @@ Ill provide a youtube video link of this project right here: [GradPath AI](https
  End project was a tutor like service where students can connect with tutors and peers in Real Time, and also use our built in AI chatbot to ask questions regarding subject matters. LinkedIn Post about the event [here](https://www.linkedin.com/feed/update/urn:li:activity:7114670066301890560/)
 
 
+---
+
  
 ### SHPE 2023 CyberSecurity Challenge. Sponsored by [NSA](https://www.nsa.gov/), [Raytheon](https://www.rtx.com/), [Abbott](https://www.abbott.com/), & [Rockwell Automation](https://www.rockwellautomation.com/en-us.html)
  - This hackathon was hosted by the SHPE 2023 National Convention in Salt Lake City, UTAH.
 We were placed in a random team with 4 others, our goal was to solve sets of cybersecurity challenges -all worth differing amount of points depending on its difficutly. This covered topics such as SQL injections, Stack-Overflow, Systems Programming, Operational Security, Administrative Security, Digital Forensics & more. Our team place **8th out of 40** cant win em' all you know. :(. This one had some tough competition.
 ![utah](GitHubPageImages/UtaH.png)
+
+---
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
