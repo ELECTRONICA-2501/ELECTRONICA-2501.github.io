@@ -5,6 +5,18 @@ with this page, I aim to share some experiments, knowledge or ideas I have about
  
 <img src="GitHubPageImages/2023Headshot.jpg" width="350" height="500">
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-me">About Me</a></li>
+    <li><a href="#past-intern--professional-experience">Past Intern & Professional Experience</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#hackathons-ive-participated-in">Hackathons I've Participated In</a></li>
+    <li><a href="#contact--linkedin">Contact & LinkedIn</a></li>
+  </ol>
+</details>
+
 ### My expertise lies at the dynamic intersection of Hardware and Software realms, where I've navigated the intricate interplay between the two. As a Computer Engineer, I've delved deep into this vibrant ecosystem, harnessing its formidable potential to craft an impressive array of projects. From the sleek sophistication of frontend development to the seamless integration of backend systems, and from the intricate management of database systems. Not content with the confines of software alone, I've also ventured into the realm of hardware. Ive delved into the cutting-edge domain of transistor design (operating at the nanometer scale!), and I've embarked on ambitious endeavors such as the construction of a fully-functional MIPS computer architecture using VHDL, showcasing my ability to navigate both the digital and physical realms with equal dexterity and innovation. Aside from this, I am a passionate runner and philosophy reader - no worries, I will not bother you with that here!
 
 
@@ -39,6 +51,8 @@ Zensor is a personalized meditation device designed to help users manage their e
 
 ### Full GitHub Repo [Here](https://github.com/ELECTRONICA-2501/ZensorApp/blob/main/README.md)
 
+
+
 ## The Build Fellowship - WebRTC Software Engineering Fellowship (unpaid internship)
 ![The Build Fellowship](GitHubPageImages/BuildFellowshipLogo.png)
 
@@ -68,6 +82,8 @@ The Virtual Office Web application is a web app that allows users on a 2D board 
 ![Server Code Architecture](GitHubPageImages/Server%20Side%20WebRTC.png)
 
 ### Full GitHub Repo [HERE](https://github.com/ELECTRONICA-2501/OA/tree/main)
+
+
 
 
 ## Some of my past and current projects are:
